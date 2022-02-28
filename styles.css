@@ -28,3 +28,8 @@
 .centered {
     text-align: center;
 }
+
+img {
+    position: relative;
+    top: 250px;
+}
